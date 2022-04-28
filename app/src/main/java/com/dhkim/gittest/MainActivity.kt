@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         //branch2 commit -1
 
+
+        //rebase branch2 into master
     }
 }
