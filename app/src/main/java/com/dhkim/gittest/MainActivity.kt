@@ -9,14 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //branch2 commit -1
-        //branch2 commit -222
-        //branch2 commit -3333
 
 
-        //rebase branch2 into master3333
-
-        //branch1 commit -333
-
-        //branch3 commit -111
+        //rebase branch2 into master
     }
 }
